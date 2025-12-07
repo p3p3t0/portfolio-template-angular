@@ -222,10 +222,3 @@ sendMessage(message: ContactMessage): Observable<{ success: boolean; message: st
 }
 ```
 
-## License
-
-This project is open source and available for personal and commercial use.
-
-## Support
-
-For issues or questions, please open an issue on the GitHub repository.
